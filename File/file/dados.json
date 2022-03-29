@@ -1,0 +1,36 @@
+[
+	{
+	"Cpf": "12345678900",
+	"Nome": "José Silva",
+	"Telefone": "16 9 88875544",
+	"DataNasc": "01/01/2000",
+	"Email": "jose@lines.com",
+	"Endereco": {
+					"Pais": "Brasil",
+					"CEP": "3454354",
+					"Estado": "SP",
+					"Cidade": "São Paulo",
+					"Logradouro": "Rua Do alem",
+					"Bairro": "Centro",
+					"Complemento": "A",
+					"Numero": "435"
+				}
+	},
+	{
+	"Cpf": "345345345345",
+	"Nome": "Pedro Silva",
+	"Telefone": "16 9 23423423",
+	"DataNasc": "10/01/2000",
+	"Email": "pedro@lines.com",
+	"Endereco": {
+					"Pais": "Brasil",
+					"CEP": "3454354",
+					"Estado": "SP2",
+					"Cidade": "São Paulo2",
+					"Logradouro": "Rua Do alem2",
+					"Bairro": "Centro2",
+					"Complemento": "A",
+					"Numero": "435"
+				}
+	}
+]
